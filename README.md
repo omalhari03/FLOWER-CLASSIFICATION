@@ -56,5 +56,17 @@ This project implements an advanced flower classification system using state-of-
 - 5GB free disk space
 - GPU with CUDA support (optional but recommended for faster training)
 
-#DOWNLOAD THE DATASET
+DOWNLOAD THE DATASET
 -https://www.kaggle.com/datasets/akmamaev/flowers-recognition
+<img width="940" height="363" alt="image" src="https://github.com/user-attachments/assets/3c6574e1-73b6-494a-b035-3d6b7fa82293" />
+
+-EVALUATION:
+<img width="940" height="309" alt="image" src="https://github.com/user-attachments/assets/73461592-bf21-45cd-b3d0-1a7327c876e4" />
+
+<img width="593" height="462" alt="image" src="https://github.com/user-attachments/assets/bd559a9d-b3fb-4a62-bcc2-e1536ba70d86" />
+
+<img width="666" height="449" alt="image" src="https://github.com/user-attachments/assets/a20cf08a-8a72-4463-ac5a-dab44cca08d6" />
+
+<img width="806" height="576" alt="image" src="https://github.com/user-attachments/assets/5e6e4e1e-80f3-4b19-ac00-54e786fff18e" />
+
+
